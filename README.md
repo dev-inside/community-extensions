@@ -4,8 +4,8 @@ A quick showcase of community store repositories for [degoog](https://github.com
 
 ## Submitting a store
 
-1. Build a degoog store repo following the [store docs](https://github.com/fccview/degoog/blob/main/docs/store.html)
-2. [Open a PR](https://github.com/fccview/awesome-degoog-extensions/compare) adding the repo URL (e.g. `"https://github.com/owner/repo"`) to [stores.json](./stores.json).
+1. Build a degoog store repo following the [store docs](https://degoog-org.github.io/docs/store.html)
+2. [Open a PR](https://github.com/degoog-org/community-extensions/compare) adding the repo URL (e.g. `"https://github.com/owner/repo"`) to [stores.json](./stores.json).
 
 That's it, you've done your part, your store will be reviewed and if it adheres to good old common sense it'll likely be approved.
 Stores with avatar/screenshots and well thought out descriptions will have a higher chance of being approved.
